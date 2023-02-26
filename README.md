@@ -1,2 +1,2 @@
-# the-pirate-bayes
+# thepiratebayes
 My blog, mostly about statistics
